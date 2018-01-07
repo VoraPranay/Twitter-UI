@@ -19,7 +19,7 @@ Uses custom Sidebar component
 
 used by DrawerNavigator to show the UI of Drawer as required
 
-
+https://user-images.githubusercontent.com/22570699/34648521-aaea47d0-f3c0-11e7-9c48-717d5a4f0ef1.png
 
 Steps to set up development environment
 
