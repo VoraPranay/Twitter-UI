@@ -1,4 +1,4 @@
-# TwitterUI
+# Twitter-UI
 Twitter clone in React Native made under HPDF 2017. (React Native Frontend)
 
 Built as a part of Task 1 submission as HPDF Internship (Hasura)
@@ -27,7 +27,7 @@ Steps to set up development environment
 
 -- git clone https://github.com/VoraPranay/Twitter-UI.git
 
--- cd TwitterUI
+-- cd Twitter-UI
 
 -- npm install (to install project dependencies)
 
