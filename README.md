@@ -20,6 +20,7 @@ Uses custom Sidebar component
 used by DrawerNavigator to show the UI of Drawer as required
 
 
+
 Steps to set up development environment
 
 --Follow the steps as mentioned in "Getting Started" section of react-native website https://github.com/facebook/react-native .
