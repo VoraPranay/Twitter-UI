@@ -34,6 +34,8 @@ Steps to set up development environment
 
 --Follow the steps as mentioned in "Getting Started" section of react-native website https://github.com/facebook/react-native .
 
+Clone Repository and Running on device/emulator:
+
 
 -- git clone https://github.com/VoraPranay/Twitter-UI.git
 
