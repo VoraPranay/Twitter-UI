@@ -7,28 +7,28 @@ This app is basically a clone to a few screens of Twitter app developed as an ex
 
 Features:-
 
-React Native Project (CRNA) 
+  1 React Native Project (CRNA) 
 
-Uses Native Base for UI Components
+  2 Uses Native Base for UI Components
 
-Uses React navigation for navigating through the screens
+  3 Uses React navigation for navigating through the screens
 
-Uses Tabnavigator with custom Tab bar component to show different headers when specific Tab selected 
+  4 Uses Tabnavigator with custom Tab bar component to show different headers when specific Tab selected 
 
-Uses custom Sidebar component 
+  5 Uses custom Sidebar component 
 
-used by DrawerNavigator to show the UI of Drawer as required
+  6 used by DrawerNavigator to show the UI of Drawer as required
 
-Preview Images
+Preview Images:
 
-Home screen:
-https://user-images.githubusercontent.com/22570699/34648521-aaea47d0-f3c0-11e7-9c48-717d5a4f0ef1.png
+  1 Home screen:
+    https://user-images.githubusercontent.com/22570699/34648521-aaea47d0-f3c0-11e7-9c48-717d5a4f0ef1.png
 
-Side Bar:
-https://user-images.githubusercontent.com/22570699/34648526-bbcc3c8e-f3c0-11e7-8415-d1c5994d69aa.png
+  2 Side Bar:
+    https://user-images.githubusercontent.com/22570699/34648526-bbcc3c8e-f3c0-11e7-8415-d1c5994d69aa.png
 
-Search Tab:
-https://user-images.githubusercontent.com/22570699/34648524-b4263ebc-f3c0-11e7-8e35-35d611b69962.png
+  3 Search Tab:
+    https://user-images.githubusercontent.com/22570699/34648524-b4263ebc-f3c0-11e7-8e35-35d611b69962.png
 
 Steps to set up development environment
 
